@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TestarGitHub
+namespace CheckComboBoxTest
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace TestarGitHub
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Expedicao1());
+            Application.Run(new Form1());
         }
     }
 }
