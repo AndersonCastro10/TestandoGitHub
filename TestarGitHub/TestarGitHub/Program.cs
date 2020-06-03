@@ -16,7 +16,7 @@ namespace TestarGitHub
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Expedicao1());
+            Application.Run(new FrmSemBorda());
         }
     }
 }
